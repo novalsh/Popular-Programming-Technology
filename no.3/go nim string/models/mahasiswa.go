@@ -1,4 +1,4 @@
-package model
+package models
 
 type Mahasiswa struct {
 	Nama   string `json:"nama"`

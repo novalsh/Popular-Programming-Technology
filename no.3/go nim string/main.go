@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"mahasiswa/controllers"
+	controller "mahasiswa/controllers"
 )
 
 func main() {
